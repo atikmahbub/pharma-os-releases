@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v1.0.8/pharma-os-1.0.8.zip",
-  "migrations": []
+  "version": "1.0.9",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v1.0.9/pharma-os-1.0.9.zip",
+  "migrations": ["001_wholesale_and_employee_sync_columns.sql"]
 }
