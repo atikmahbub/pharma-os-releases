@@ -1,5 +1,6 @@
 {
-  "version": "1.0.11",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v1.0.11/pharma-os-1.0.11.zip",
-  "migrations": []
+  "version": "1.0.12",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v1.0.12/pharma-os-1.0.12.zip",
+  "migrations": [],
+  "notes": "Test release - verifying the new update-check flow (Settings banner + Update now)."
 }
