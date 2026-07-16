@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.0.0/pharma-os-2.0.0.zip",
+  "version": "2.0.1",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.0.1/pharma-os-2.0.1.zip",
   "migrations": [],
-  "notes": "New Pharma OS logo with a smoother icon border; refreshed color palette"
+  "notes": "Fixed: the update-install flow could get stuck on 'Checking for updates' with no error shown if the updater failed to start"
 }
