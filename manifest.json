@@ -1,6 +1,6 @@
 {
-  "version": "1.0.14",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v1.0.14/pharma-os-1.0.14.zip",
+  "version": "2.0.0",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.0.0/pharma-os-2.0.0.zip",
   "migrations": [],
-  "notes": "Test: confirm the terminal-window fix actually takes effect this time (self-update lag)."
+  "notes": "New Pharma OS logo with a smoother icon border; refreshed color palette"
 }
