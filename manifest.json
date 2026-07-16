@@ -1,6 +1,6 @@
 {
-  "version": "2.0.1",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.0.1/pharma-os-2.0.1.zip",
+  "version": "2.0.2",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.0.2/pharma-os-2.0.2.zip",
   "migrations": [],
-  "notes": "Fixed: the update-install flow could get stuck on 'Checking for updates' with no error shown if the updater failed to start"
+  "notes": "Added a manual 'Check for updates' button in Settings"
 }
