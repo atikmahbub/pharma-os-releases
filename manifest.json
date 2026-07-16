@@ -1,6 +1,6 @@
 {
-  "version": "2.0.2",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.0.2/pharma-os-2.0.2.zip",
+  "version": "2.1.0",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.1.0/pharma-os-2.1.0.zip",
   "migrations": [],
-  "notes": "Added a manual 'Check for updates' button in Settings"
+  "notes": "Redesigned the Receive Stock screen for faster, cleaner stock entry"
 }
