@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.1.0/pharma-os-2.1.0.zip",
+  "version": "2.2.0",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.0/pharma-os-2.2.0.zip",
   "migrations": [],
-  "notes": "Redesigned the Receive Stock screen for faster, cleaner stock entry"
+  "notes": "Fixed: deleting a resumed purchase draft no longer blocks Save Purchase\nStock receive screen refreshed with softer, consistent visuals\nSave draft / Save Purchase now clearly show when they are unavailable\n'Due' in the sell footer now opens the Customers screen\nMedicine dialog renamed to 'Create Medicine'"
 }
