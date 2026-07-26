@@ -1,6 +1,6 @@
 {
-  "version": "2.2.3",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.3/pharma-os-2.2.3.zip",
+  "version": "2.2.4",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.4/pharma-os-2.2.4.zip",
   "migrations": [],
-  "notes": "Account status now updates with every cloud sync"
+  "notes": "Support contact updated on the account-locked screen"
 }
