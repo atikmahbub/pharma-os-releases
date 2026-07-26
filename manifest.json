@@ -1,6 +1,6 @@
 {
-  "version": "2.2.2",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.2/pharma-os-2.2.2.zip",
+  "version": "2.2.3",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.3/pharma-os-2.2.3.zip",
   "migrations": [],
-  "notes": "Refreshed the app logo and icons."
+  "notes": "Account status now updates with every cloud sync"
 }
