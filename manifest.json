@@ -1,6 +1,6 @@
 {
-  "version": "2.2.6",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.6/pharma-os-2.2.6.zip",
+  "version": "2.2.7",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.7/pharma-os-2.2.7.zip",
   "migrations": [],
-  "notes": "Fixed: account suspension now takes effect without needing to refresh the page"
+  "notes": "Undo posting: discard the last sale of the day from the Sell screen — stock, profit and dues all go back\nVoided sales are now removed from the cloud backup instead of lingering there\nNew animated Pharma OS loading screen"
 }
