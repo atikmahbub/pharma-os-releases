@@ -1,6 +1,8 @@
 {
-  "version": "2.2.7",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.7/pharma-os-2.2.7.zip",
-  "migrations": [],
-  "notes": "Undo posting: discard the last sale of the day from the Sell screen — stock, profit and dues all go back\nVoided sales are now removed from the cloud backup instead of lingering there\nNew animated Pharma OS loading screen"
+  "version": "2.2.8",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.8/pharma-os-2.2.8.zip",
+  "migrations": [
+    "20260810-normalize-liquid-units.sql"
+  ],
+  "notes": "Bottles, syrups and drops are now sold as one whole unit — no more per-ml fragments or inflated bottle prices\nMedicine search is more precise: typing a name no longer matches mid-word (napa no longer shows Lonapam)\nSearch results now scroll with the arrow keys\nSell search: removed the +/- buttons; type the quantity or use the + and - keys"
 }
