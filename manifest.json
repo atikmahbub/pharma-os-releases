@@ -1,8 +1,8 @@
 {
-  "version": "2.2.8",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.8/pharma-os-2.2.8.zip",
+  "version": "2.2.9",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.9/pharma-os-2.2.9.zip",
   "migrations": [
     "20260810-normalize-liquid-units.sql"
   ],
-  "notes": "Bottles, syrups and drops are now sold as one whole unit — no more per-ml fragments or inflated bottle prices\nMedicine search is more precise: typing a name no longer matches mid-word (napa no longer shows Lonapam)\nSearch results now scroll with the arrow keys\nSell search: removed the +/- buttons; type the quantity or use the + and - keys"
+  "notes": "Wholesale: take payment right at the counter — a paid wholesale sale no longer shows as due\nWholesale: overpayment is kept as an advance and used up by the customer's next bill\nWholesale: 'Outstanding' is now 'Due'; customers with nothing owed read 'No due'\nWholesale: return a customer's advance in cash from their detail page\nFixed: wholesale due totals no longer let one customer's advance hide another's debt\nFixed: Enter now works on dialog buttons; Ctrl+Enter saves"
 }
