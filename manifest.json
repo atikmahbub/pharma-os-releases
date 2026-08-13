@@ -1,8 +1,8 @@
 {
-  "version": "2.2.9",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.2.9/pharma-os-2.2.9.zip",
+  "version": "2.3.0",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.3.0/pharma-os-2.3.0.zip",
   "migrations": [
     "20260810-normalize-liquid-units.sql"
   ],
-  "notes": "Wholesale: take payment right at the counter — a paid wholesale sale no longer shows as due\nWholesale: overpayment is kept as an advance and used up by the customer's next bill\nWholesale: 'Outstanding' is now 'Due'; customers with nothing owed read 'No due'\nWholesale: return a customer's advance in cash from their detail page\nFixed: wholesale due totals no longer let one customer's advance hide another's debt\nFixed: Enter now works on dialog buttons; Ctrl+Enter saves"
+  "notes": "Bangla language support — switch between Bangla and English from Settings\nPrices, dates and receipts stay in English digits\nPrinted receipts and CSV exports remain in English"
 }
