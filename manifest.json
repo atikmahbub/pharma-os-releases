@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.3.0/pharma-os-2.3.0.zip",
+  "version": "2.3.1",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.3.1/pharma-os-2.3.1.zip",
   "migrations": [
     "20260810-normalize-liquid-units.sql"
   ],
-  "notes": "Bangla language support — switch between Bangla and English from Settings\nPrices, dates and receipts stay in English digits\nPrinted receipts and CSV exports remain in English"
+  "notes": "Manager PC can now reset the owner dashboard password from Settings\nDashboard login page has a Forgot password? link explaining how"
 }
