@@ -1,8 +1,8 @@
 {
-  "version": "2.3.1",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.3.1/pharma-os-2.3.1.zip",
+  "version": "2.3.2",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.3.2/pharma-os-2.3.2.zip",
   "migrations": [
     "20260810-normalize-liquid-units.sql"
   ],
-  "notes": "Manager PC can now reset the owner dashboard password from Settings\nDashboard login page has a Forgot password? link explaining how"
+  "notes": "Fixes the update error: the liquid-unit repair now applies correctly\nBottles priced per-ml are corrected to one bottle at the real price"
 }
