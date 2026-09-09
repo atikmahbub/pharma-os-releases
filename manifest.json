@@ -1,8 +1,5 @@
 {
-  "version": "2.4.0",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v2.4.0/pharma-os-2.4.0.zip",
-  "migrations": [
-    "20260810-normalize-liquid-units.sql"
-  ],
-  "notes": "Receive tab redesigned: the add-medicine panel now stays open beside the running purchase — add a line and the panel clears itself, ready for the next one.\nClick any item in the list to load it back into the panel and edit it.\nPurchase details (supplier, date, invoice, payment) now sit in one compact strip above the items.\nShort-dated batches show a months-left warning in the items list.\nCtrl and + now files the current medicine and clears the panel."
+  "version": "4.0.1",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v4.0.1/pharma-os-4.0.1.zip",
+  "notes": "Template Quick Log now asks for confirmation before recording an expense"
 }
