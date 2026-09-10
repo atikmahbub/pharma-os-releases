@@ -1,5 +1,5 @@
 {
-  "version": "4.0.3",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v4.0.3/pharma-os-4.0.3.zip",
-  "notes": "Fixed: the Online indicator now updates within seconds of the internet going or coming back, instead of taking minutes."
+  "version": "4.0.4",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v4.0.4/pharma-os-4.0.4.zip",
+  "notes": "Fixed: a slow internet connection is no longer reported as being offline."
 }
