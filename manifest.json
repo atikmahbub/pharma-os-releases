@@ -1,5 +1,5 @@
 {
-  "version": "4.0.2",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v4.0.2/pharma-os-4.0.2.zip",
-  "notes": "Fixed: the app no longer reports Online or a successful sync while the shop has no internet."
+  "version": "4.0.3",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v4.0.3/pharma-os-4.0.3.zip",
+  "notes": "Fixed: the Online indicator now updates within seconds of the internet going or coming back, instead of taking minutes."
 }
