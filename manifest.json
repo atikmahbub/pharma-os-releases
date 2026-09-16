@@ -1,5 +1,5 @@
 {
-  "version": "4.0.5",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v4.0.5/pharma-os-4.0.5.zip",
-  "notes": "Fixed: checking for updates without internet no longer reports that the app is up to date."
+  "version": "4.2.0",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v4.2.0/pharma-os-4.2.0.zip",
+  "notes": "Sales no longer fail on a Sell screen that has been left idle, or when several counters bill at once.\nThe Settings PIN prompt no longer blocks the rest of the app.\nSettings now remembers your counter defaults: which mode Sell opens in, and the discounts that pre-fill on stock entry and on wholesale sales.\nAdding stock pre-fills the cost and sell price for a medicine you already carry.\nShops set to wholesale now open the Customers page on its Wholesale tab."
 }
