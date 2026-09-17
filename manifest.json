@@ -1,5 +1,5 @@
 {
-  "version": "4.3.0",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v4.3.0/pharma-os-4.3.0.zip",
-  "notes": "Faster selling: type the quantity, arrow keys for strip/tablet, Enter always adds\nStock: optional wholesale price when receiving stock\nStock: type expiry as MM/YY (e.g. 0927)"
+  "version": "4.4.0",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v4.4.0/pharma-os-4.4.0.zip",
+  "notes": "New: Settings option to turn off receipt printing after a sale\nPayment section on the Sell screen is easier to spot"
 }
