@@ -1,5 +1,5 @@
 {
-  "version": "4.4.0",
-  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v4.4.0/pharma-os-4.4.0.zip",
-  "notes": "New: Settings option to turn off receipt printing after a sale\nPayment section on the Sell screen is easier to spot"
+  "version": "4.4.4",
+  "downloadUrl": "https://github.com/atikmahbub/pharma-os-releases/releases/download/v4.4.4/pharma-os-4.4.4.zip",
+  "notes": "New: add a medicine that isn't in the catalogue straight from Receive Stock"
 }
